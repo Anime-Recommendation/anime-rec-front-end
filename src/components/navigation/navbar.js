@@ -9,7 +9,7 @@ class Navbar extends Component {
             <nav className="navbar navbar-dark bg-pink">
                 <div className="container">
                     {/* href= is for specifying the url pages*/}
-                    <a className="navbar-brand" href="/">Anime Recommendation</a>
+                    <a className="navbar-brand" href="/"><b>Anime Recommendation</b></a>
 
                     {/* Mobile support
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
